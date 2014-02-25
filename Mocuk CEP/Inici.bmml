@@ -1,0 +1,627 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="1727" measuredH="797" mockupW="1602" mockupH="758">
+  <controls>
+    <control controlID="35" controlTypeID="com.balsamiq.mockups::TextArea" x="1176" y="173" w="254" h="477" measuredW="200" measuredH="140" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <backgroundAlpha>0.75</backgroundAlpha>
+        <borderColor>15110456</borderColor>
+        <color>545684</color>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="46" controlTypeID="__group__" x="1191" y="263" w="228" h="362" measuredW="228" measuredH="362" zOrder="3" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::Label" x="76" y="168" w="-1" h="-1" measuredW="58" measuredH="32" zOrder="0" locked="false" isInGroup="46">
+          <controlProperties>
+            <color>16777215</color>
+            <size>24</size>
+            <text>PQPI</text>
+            <underline>false</underline>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::Label" x="45" y="0" w="-1" h="-1" measuredW="118" measuredH="32" zOrder="1" locked="false" isInGroup="46">
+          <controlProperties>
+            <color>16777215</color>
+            <href>Formaci%F3%20-%20Batxillerat%26bm%3BFormaci%F3%20-%20Batxillerat.bmml%26bm%3BFormaci%F3%20-%20Batxillerat.bmml%26bm%3BFormaci%F3%20-%20Batxillerat.bmml</href>
+            <map>%3Carea%20shape%3D%22rect%22%20coords%3D%221111%2C224%2C1229%2C256%22%20href%3D%22Formaci%25C3%25B3%2520-%2520Batxillerat.bmml%22%20alt%3D%22Formaci%F3%20-%20Batxillerat%22%20id%3D%221%22/%3E</map>
+            <size>24</size>
+            <text>Batxillerats</text>
+            <underline>false</underline>
+          </controlProperties>
+        </control>
+        <control controlID="2" controlTypeID="com.balsamiq.mockups::Label" x="14" y="53" w="-1" h="-1" measuredW="181" measuredH="32" zOrder="2" locked="false" isInGroup="46">
+          <controlProperties>
+            <color>16777215</color>
+            <size>24</size>
+            <text>Cicles%20Formatius</text>
+            <underline>false</underline>
+          </controlProperties>
+        </control>
+        <control controlID="3" controlTypeID="com.balsamiq.mockups::Label" x="76" y="112" w="-1" h="-1" measuredW="57" measuredH="32" zOrder="3" locked="false" isInGroup="46">
+          <controlProperties>
+            <color>16777215</color>
+            <size>24</size>
+            <text>PACF</text>
+            <underline>false</underline>
+          </controlProperties>
+        </control>
+        <control controlID="4" controlTypeID="com.balsamiq.mockups::Label" x="0" y="219" w="-1" h="-1" measuredW="228" measuredH="32" zOrder="4" locked="false" isInGroup="46">
+          <controlProperties>
+            <color>16777215</color>
+            <size>24</size>
+            <text>Formaci%F3%20per%20aturats</text>
+            <underline>false</underline>
+          </controlProperties>
+        </control>
+        <control controlID="5" controlTypeID="com.balsamiq.mockups::Label" x="14" y="273" w="-1" h="-1" measuredW="204" measuredH="32" zOrder="5" locked="false" isInGroup="46">
+          <controlProperties>
+            <color>16777215</color>
+            <size>24</size>
+            <text>Formaci%F3%20Cont%EDnua</text>
+            <underline>false</underline>
+          </controlProperties>
+        </control>
+        <control controlID="6" controlTypeID="com.balsamiq.mockups::Label" x="21" y="330" w="-1" h="-1" measuredW="186" measuredH="32" zOrder="6" locked="false" isInGroup="46">
+          <controlProperties>
+            <color>16777215</color>
+            <href>http%3A//www.ucoc.es/ca</href>
+            <map>%3Carea%20shape%3D%22rect%22%20coords%3D%221087%2C554%2C1273%2C586%22%20href%3D%22http%3A//www.ucoc.es/ca%22%20alt%3D%22http%3A//www.ucoc.es/ca%22%20id%3D%226%22%20target%3D%22_blank%22/%3E</map>
+            <size>24</size>
+            <text>Formaci%F3%20On-line</text>
+            <underline>false</underline>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="48" controlTypeID="com.balsamiq.mockups::Label" x="1230" y="191" w="-1" h="-1" measuredW="136" measuredH="48" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>16777215</color>
+        <href>Formaci%F3%20-%20Batxillerat%26bm%3BFormaci%F3%20-%20Batxillerat.bmml%26bm%3BFormaci%F3%20-%20Batxillerat.bmml%26bm%3BFormaci%F3%20-%20Batxillerat.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%221105%2C152%2C1241%2C200%22%20href%3D%22Formaci%25C3%25B3%2520-%2520Batxillerat.bmml%22%20alt%3D%22Formaci%F3%20-%20Batxillerat%22%20id%3D%2248%22/%3E</map>
+        <size>40</size>
+        <text>Estudis</text>
+        <textOrientation>right</textOrientation>
+        <underline>false</underline>
+      </controlProperties>
+    </control>
+    <control controlID="49" controlTypeID="com.balsamiq.mockups::HRule" x="1178" y="239" w="254" h="-1" measuredW="100" measuredH="10" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>16750848</color>
+        <stroke>solid</stroke>
+      </controlProperties>
+    </control>
+    <control controlID="51" controlTypeID="__group__" x="395" y="39" w="1037" h="758" measuredW="1037" measuredH="758" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <controlName>symbols</controlName>
+      </controlProperties>
+      <groupChildrenDescriptors>
+        <control controlID="50" controlTypeID="__group__" x="0" y="0" w="1037" h="758" measuredW="1037" measuredH="758" zOrder="0" locked="false" isInGroup="51">
+          <groupChildrenDescriptors>
+            <control controlID="0" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="0" y="0" w="1037" h="758" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="50">
+              <controlProperties>
+                <text>Centre%20d%27Estudis%20Polit%E8cnics%0Ahttp%3A//www.cepnet.net</text>
+              </controlProperties>
+            </control>
+            <control controlID="1" controlTypeID="com.balsamiq.mockups::Image" x="2" y="73" w="1032" h="651" measuredW="1300" measuredH="895" zOrder="1" locked="false" isInGroup="50">
+              <controlProperties>
+                <src>./assets/back.png</src>
+                <text/>
+              </controlProperties>
+            </control>
+            <control controlID="2" controlTypeID="__group__" x="426" y="560" w="184" h="24" measuredW="184" measuredH="24" zOrder="2" locked="false" isInGroup="50">
+              <controlProperties>
+                <controlName>Slideshow%20Simple%20Carousel</controlName>
+              </controlProperties>
+              <groupChildrenDescriptors>
+                <control controlID="9" controlTypeID="__group__" x="0" y="0" w="184" h="24" measuredW="184" measuredH="24" zOrder="0" locked="false" isInGroup="2">
+                  <groupChildrenDescriptors>
+                    <control controlID="0" controlTypeID="com.balsamiq.mockups::RoundButton" x="0" y="0" w="26" h="24" measuredW="32" measuredH="32" zOrder="0" locked="false" isInGroup="9">
+                      <controlProperties>
+                        <backgroundAlpha>0.75</backgroundAlpha>
+                        <borderColor>11820806</borderColor>
+                        <color>11820806</color>
+                        <markup>false</markup>
+                      </controlProperties>
+                    </control>
+                    <control controlID="1" controlTypeID="com.balsamiq.mockups::RoundButton" x="53" y="0" w="26" h="24" measuredW="32" measuredH="32" zOrder="1" locked="false" isInGroup="9">
+                      <controlProperties>
+                        <backgroundAlpha>0.75</backgroundAlpha>
+                        <borderColor>11820806</borderColor>
+                        <color>15110456</color>
+                        <markup>false</markup>
+                      </controlProperties>
+                    </control>
+                    <control controlID="2" controlTypeID="com.balsamiq.mockups::RoundButton" x="105" y="0" w="26" h="24" measuredW="32" measuredH="32" zOrder="2" locked="false" isInGroup="9">
+                      <controlProperties>
+                        <backgroundAlpha>0.75</backgroundAlpha>
+                        <borderColor>11820806</borderColor>
+                        <color>15110456</color>
+                        <markup>false</markup>
+                      </controlProperties>
+                    </control>
+                    <control controlID="3" controlTypeID="com.balsamiq.mockups::RoundButton" x="158" y="0" w="26" h="24" measuredW="32" measuredH="32" zOrder="3" locked="false" isInGroup="9">
+                      <controlProperties>
+                        <backgroundAlpha>0.75</backgroundAlpha>
+                        <borderColor>11820806</borderColor>
+                        <color>15110456</color>
+                        <markup>false</markup>
+                      </controlProperties>
+                    </control>
+                  </groupChildrenDescriptors>
+                </control>
+              </groupChildrenDescriptors>
+            </control>
+            <control controlID="3" controlTypeID="__group__" x="2" y="608" w="1032" h="123" measuredW="1032" measuredH="123" zOrder="3" locked="false" isInGroup="50">
+              <groupChildrenDescriptors>
+                <control controlID="0" controlTypeID="__group__" x="280" y="0" w="358" h="123" measuredW="358" measuredH="123" zOrder="0" locked="false" isInGroup="3">
+                  <groupChildrenDescriptors>
+                    <control controlID="0" controlTypeID="com.balsamiq.mockups::TextArea" x="0" y="0" w="358" h="123" measuredW="200" measuredH="140" zOrder="0" locked="false" isInGroup="0">
+                      <controlProperties>
+                        <backgroundAlpha>0.75</backgroundAlpha>
+                        <bold>false</bold>
+                        <borderColor>15110456</borderColor>
+                        <color>545684</color>
+                        <size>13</size>
+                        <text>%20%20%20%20%0A%20%0A%20%20%20%20Pla%E7a%20Urquinaona%2C%2010%09%09C/Santa%20Anna%2C%2028%0A%20%20%20%2008010%20Barcelona%09%0908002%20Barcelona%0A%20%20%20%20Tel.%2093%20302%2002%2024%09%09Tel.%2093%20302%2041%2006%0A%20%20%20%20Fax%2093%20412%2051%2093%09%09Fax%2093%20318%2069%2063%0A%20%0A%20%0A%20%0A%20</text>
+                      </controlProperties>
+                    </control>
+                    <control controlID="3" controlTypeID="__group__" x="23" y="11" w="301" h="22" measuredW="301" measuredH="22" zOrder="1" locked="false" isInGroup="0">
+                      <groupChildrenDescriptors>
+                        <control controlID="0" controlTypeID="com.balsamiq.mockups::Label" x="0" y="0" w="-1" h="-1" measuredW="120" measuredH="22" zOrder="0" locked="false" isInGroup="3">
+                          <controlProperties>
+                            <color>16750848</color>
+                            <size>14</size>
+                            <text>Centre%20Urquinaona</text>
+                            <textOrientation>right</textOrientation>
+                          </controlProperties>
+                        </control>
+                        <control controlID="1" controlTypeID="com.balsamiq.mockups::Label" x="177" y="0" w="-1" h="-1" measuredW="124" measuredH="22" zOrder="1" locked="false" isInGroup="3">
+                          <controlProperties>
+                            <color>16750848</color>
+                            <size>14</size>
+                            <text>Centre%20Santa%20Anna</text>
+                            <textOrientation>right</textOrientation>
+                          </controlProperties>
+                        </control>
+                      </groupChildrenDescriptors>
+                    </control>
+                  </groupChildrenDescriptors>
+                </control>
+                <control controlID="1" controlTypeID="__group__" x="638" y="0" w="394" h="123" measuredW="394" measuredH="123" zOrder="1" locked="false" isInGroup="3">
+                  <groupChildrenDescriptors>
+                    <control controlID="0" controlTypeID="__group__" x="0" y="0" w="394" h="123" measuredW="394" measuredH="123" zOrder="0" locked="false" isInGroup="1">
+                      <groupChildrenDescriptors>
+                        <control controlID="0" controlTypeID="com.balsamiq.mockups::TextArea" x="0" y="0" w="394" h="123" measuredW="200" measuredH="140" zOrder="0" locked="false" isInGroup="0">
+                          <controlProperties>
+                            <backgroundAlpha>0.75</backgroundAlpha>
+                            <bold>true</bold>
+                            <borderColor>15110456</borderColor>
+                            <color>545684</color>
+                            <text/>
+                          </controlProperties>
+                        </control>
+                        <control controlID="1" controlTypeID="com.balsamiq.mockups::Image" x="16" y="50" w="152" h="45" measuredW="194" measuredH="47" zOrder="1" locked="false" isInGroup="0">
+                          <controlProperties>
+                            <src>./assets/Certificados.png</src>
+                            <text/>
+                          </controlProperties>
+                        </control>
+                        <control controlID="2" controlTypeID="com.balsamiq.mockups::Label" x="24" y="20" w="135" h="-1" measuredW="133" measuredH="22" zOrder="2" locked="false" isInGroup="0">
+                          <controlProperties>
+                            <color>16777215</color>
+                            <size>14</size>
+                            <text>Centre%20certificat%20per%3A</text>
+                          </controlProperties>
+                        </control>
+                        <control controlID="3" controlTypeID="com.balsamiq.mockups::Label" x="243" y="20" w="84" h="-1" measuredW="83" measuredH="22" zOrder="3" locked="false" isInGroup="0">
+                          <controlProperties>
+                            <color>16777215</color>
+                            <size>14</size>
+                            <text>Segueix-nos%21</text>
+                          </controlProperties>
+                        </control>
+                      </groupChildrenDescriptors>
+                    </control>
+                    <control controlID="1" controlTypeID="__group__" x="194" y="44" w="181" h="59" measuredW="181" measuredH="59" zOrder="1" locked="false" isInGroup="1">
+                      <groupChildrenDescriptors>
+                        <control controlID="0" controlTypeID="__group__" x="0" y="0" w="45" h="59" measuredW="45" measuredH="59" zOrder="0" locked="false" isInGroup="1">
+                          <groupChildrenDescriptors>
+                            <control controlID="0" controlTypeID="com.balsamiq.mockups::Image" x="0" y="0" w="45" h="59" measuredW="2915" measuredH="3000" zOrder="0" locked="false" isInGroup="0">
+                              <controlProperties>
+                                <borderStyle>none</borderStyle>
+                                <crop>0%2C0%2C1000%2C1000</crop>
+                                <href>https%3A//www.facebook.com/pages/Centre-dEstudis-Polit%25C3%25A8cnics/189460531088276%3Ffref%3Dts</href>
+                                <map>%3Carea%20shape%3D%22rect%22%20coords%3D%221104%2C652%2C1149%2C711%22%20href%3D%22https%3A//www.facebook.com/pages/Centre-dEstudis-Polit%2525C3%2525A8cnics/189460531088276%3Ffref%3Dts%22%20alt%3D%22https%3A//www.facebook.com/pages/Centre-dEstudis-Polit%25C3%25A8cnics/189460531088276%3Ffref%3Dts%22%20id%3D%220%22%20target%3D%22_blank%22/%3E</map>
+                                <src>./assets/facebook.png</src>
+                                <text/>
+                              </controlProperties>
+                            </control>
+                          </groupChildrenDescriptors>
+                        </control>
+                        <control controlID="1" controlTypeID="com.balsamiq.mockups::Image" x="65" y="0" w="45" h="59" measuredW="256" measuredH="256" zOrder="1" locked="false" isInGroup="1">
+                          <controlProperties>
+                            <href>https%3A//www.youtube.com/user/CEPbcn</href>
+                            <map>%3Carea%20shape%3D%22rect%22%20coords%3D%221169%2C652%2C1214%2C711%22%20href%3D%22https%3A//www.youtube.com/user/CEPbcn%22%20alt%3D%22https%3A//www.youtube.com/user/CEPbcn%22%20id%3D%221%22%20target%3D%22_blank%22/%3E</map>
+                            <src>./assets/youtube.png</src>
+                            <text/>
+                          </controlProperties>
+                        </control>
+                        <control controlID="2" controlTypeID="com.balsamiq.mockups::Image" x="136" y="0" w="45" h="59" measuredW="512" measuredH="512" zOrder="2" locked="false" isInGroup="1">
+                          <controlProperties>
+                            <href>https%3A//twitter.com/CE_Politecnics</href>
+                            <map>%3Carea%20shape%3D%22rect%22%20coords%3D%221240%2C652%2C1285%2C711%22%20href%3D%22https%3A//twitter.com/CE_Politecnics%22%20alt%3D%22https%3A//twitter.com/CE_Politecnics%22%20id%3D%222%22%20target%3D%22_blank%22/%3E</map>
+                            <src>./assets/twiter.png</src>
+                            <text/>
+                          </controlProperties>
+                        </control>
+                      </groupChildrenDescriptors>
+                    </control>
+                  </groupChildrenDescriptors>
+                </control>
+                <control controlID="2" controlTypeID="com.balsamiq.mockups::TextArea" x="0" y="0" w="280" h="122" measuredW="200" measuredH="140" zOrder="2" locked="false" isInGroup="3">
+                  <controlProperties>
+                    <backgroundAlpha>0.75</backgroundAlpha>
+                    <bold>true</bold>
+                    <borderColor>15110456</borderColor>
+                    <color>545684</color>
+                    <size>11</size>
+                    <text/>
+                  </controlProperties>
+                </control>
+              </groupChildrenDescriptors>
+            </control>
+            <control controlID="5" controlTypeID="__group__" x="22" y="625" w="227" h="44" measuredW="227" measuredH="44" zOrder="4" locked="false" isInGroup="50">
+              <groupChildrenDescriptors>
+                <control controlID="0" controlTypeID="com.balsamiq.mockups::Icon" x="0" y="10" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="0" locked="false" isInGroup="5">
+                  <controlProperties>
+                    <color>16750848</color>
+                    <icon>SmallClockIcon%7Csmall</icon>
+                  </controlProperties>
+                </control>
+                <control controlID="1" controlTypeID="com.balsamiq.mockups::Paragraph" x="39" y="0" w="156" h="19" measuredW="200" measuredH="80" zOrder="1" locked="false" isInGroup="5">
+                  <controlProperties>
+                    <color>16777215</color>
+                    <size>14</size>
+                    <text>%26Horari%20lectiu%20i%20secretaria%26</text>
+                  </controlProperties>
+                </control>
+                <control controlID="3" controlTypeID="com.balsamiq.mockups::Paragraph" x="39" y="25" w="188" h="19" measuredW="200" measuredH="80" zOrder="2" locked="false" isInGroup="5">
+                  <controlProperties>
+                    <color>16777215</color>
+                    <size>14</size>
+                    <text>8%3A30h-14%3A30h%20i%2016%3A00h-22%3A00h</text>
+                  </controlProperties>
+                </control>
+              </groupChildrenDescriptors>
+            </control>
+            <control controlID="6" controlTypeID="__group__" x="22" y="683" w="156" h="24" measuredW="156" measuredH="24" zOrder="5" locked="false" isInGroup="50">
+              <groupChildrenDescriptors>
+                <control controlID="0" controlTypeID="com.balsamiq.mockups::Icon" x="0" y="0" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="0" locked="false" isInGroup="6">
+                  <controlProperties>
+                    <color>16750848</color>
+                    <icon>DownloadIcon%7Csmall</icon>
+                  </controlProperties>
+                </control>
+                <control controlID="1" controlTypeID="com.balsamiq.mockups::Paragraph" x="39" y="7" w="117" h="17" measuredW="200" measuredH="80" zOrder="1" locked="false" isInGroup="6">
+                  <controlProperties>
+                    <color>16777215</color>
+                    <size>14</size>
+                    <text>Calendari%20escolar</text>
+                  </controlProperties>
+                </control>
+              </groupChildrenDescriptors>
+            </control>
+            <control controlID="14" controlTypeID="com.balsamiq.mockups::TextArea" x="2" y="73" w="133" h="65" measuredW="200" measuredH="140" zOrder="6" locked="false" isInGroup="50">
+              <controlProperties>
+                <backgroundAlpha>0.75</backgroundAlpha>
+                <borderColor>16750848</borderColor>
+                <color>545684</color>
+                <text/>
+              </controlProperties>
+            </control>
+            <control controlID="15" controlTypeID="com.balsamiq.mockups::Image" x="5" y="77" w="126" h="57" measuredW="2008" measuredH="700" zOrder="7" locked="false" isInGroup="50">
+              <controlProperties>
+                <borderStyle>none</borderStyle>
+                <size>18</size>
+                <src>./assets/Logo-text_blau.jpg</src>
+                <text/>
+              </controlProperties>
+            </control>
+          </groupChildrenDescriptors>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="52" controlTypeID="__group__" x="526" y="112" w="904" h="65" measuredW="904" measuredH="65" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <controlName>Men%FA</controlName>
+      </controlProperties>
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::MenuBar" x="0" y="1" w="898" h="63" measuredW="900" measuredH="29" zOrder="0" locked="false" isInGroup="52">
+          <controlProperties>
+            <borderStyle>none</borderStyle>
+            <hrefs/>
+            <selectedIndex>-1</selectedIndex>
+            <text>%09%20%20%20%2C%09%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%2C%09%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%2C%09%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%2C%09%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%2C%09%09%20%20%20%20%20%20%20%20%20%20</text>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::TextArea" x="0" y="0" w="904" h="65" measuredW="200" measuredH="140" zOrder="1" locked="false" isInGroup="52">
+          <controlProperties>
+            <backgroundAlpha>0.75</backgroundAlpha>
+            <borderColor>16750848</borderColor>
+            <color>545684</color>
+            <text/>
+          </controlProperties>
+        </control>
+        <control controlID="2" controlTypeID="com.balsamiq.mockups::Label" x="603" y="22" w="133" h="-1" measuredW="131" measuredH="24" zOrder="2" locked="false" isInGroup="52">
+          <controlProperties>
+            <color>16777215</color>
+            <size>16</size>
+            <text>ESCOLA-FAM%CDLIA</text>
+          </controlProperties>
+        </control>
+        <control controlID="3" controlTypeID="com.balsamiq.mockups::Label" x="38" y="22" w="41" h="-1" measuredW="39" measuredH="24" zOrder="3" locked="false" isInGroup="52">
+          <controlProperties>
+            <color>16777215</color>
+            <href>Inici%26bm%3BInici.bmml%26bm%3BInici.bmml%26bm%3BInici.bmml</href>
+            <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22439%2C95%2C480%2C119%22%20href%3D%22Inici.bmml%22%20alt%3D%22Inici%22%20id%3D%223%22/%3E</map>
+            <size>16</size>
+            <text>INICI</text>
+          </controlProperties>
+        </control>
+        <control controlID="4" controlTypeID="com.balsamiq.mockups::Label" x="125" y="22" w="102" h="-1" measuredW="101" measuredH="24" zOrder="4" locked="false" isInGroup="52">
+          <controlProperties>
+            <color>16777215</color>
+            <href>Informaci%F3%20-%20Qui%26bm%3BInformaci%F3%20-%20Qui.bmml%26bm%3BInformaci%F3%20-%20Qui.bmml%26bm%3BInformaci%F3%20-%20Qui.bmml</href>
+            <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22526%2C95%2C628%2C119%22%20href%3D%22Informaci%25C3%25B3%2520-%2520Qui.bmml%22%20alt%3D%22Informaci%F3%20-%20Qui%22%20id%3D%224%22/%3E</map>
+            <size>16</size>
+            <text>INFORMACI%D3</text>
+          </controlProperties>
+        </control>
+        <control controlID="5" controlTypeID="com.balsamiq.mockups::Label" x="274" y="22" w="85" h="-1" measuredW="84" measuredH="24" zOrder="5" locked="false" isInGroup="52">
+          <controlProperties>
+            <color>16777215</color>
+            <href>Formaci%F3%20-%20Batxillerat%26bm%3BFormaci%F3%20-%20Batxillerat.bmml%26bm%3BFormaci%F3%20-%20Batxillerat.bmml%26bm%3BFormaci%F3%20-%20Batxillerat.bmml</href>
+            <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22675%2C95%2C760%2C119%22%20href%3D%22Formaci%25C3%25B3%2520-%2520Batxillerat.bmml%22%20alt%3D%22Formaci%F3%20-%20Batxillerat%22%20id%3D%225%22/%3E</map>
+            <size>16</size>
+            <text>FORMACI%D3</text>
+          </controlProperties>
+        </control>
+        <control controlID="6" controlTypeID="com.balsamiq.mockups::Label" x="410" y="22" w="150" h="-1" measuredW="147" measuredH="24" zOrder="6" locked="false" isInGroup="52">
+          <controlProperties>
+            <color>16777215</color>
+            <size>16</size>
+            <text>ESCOLA-EMPRESA</text>
+          </controlProperties>
+        </control>
+        <control controlID="7" controlTypeID="com.balsamiq.mockups::Icon" x="568" y="18" w="-1" h="-1" measuredW="32" measuredH="32" zOrder="7" locked="false" isInGroup="52">
+          <controlProperties>
+            <borderStyle>none</borderStyle>
+            <color>15110456</color>
+            <icon>ContactsIcon%7Cmedium</icon>
+          </controlProperties>
+        </control>
+        <control controlID="8" controlTypeID="com.balsamiq.mockups::Icon" x="4" y="18" w="-1" h="-1" measuredW="32" measuredH="32" zOrder="8" locked="false" isInGroup="52">
+          <controlProperties>
+            <borderStyle>none</borderStyle>
+            <color>15110456</color>
+            <icon>HomeIcon%7Cmedium</icon>
+          </controlProperties>
+        </control>
+        <control controlID="9" controlTypeID="com.balsamiq.mockups::Icon" x="90" y="18" w="-1" h="-1" measuredW="32" measuredH="32" zOrder="9" locked="false" isInGroup="52">
+          <controlProperties>
+            <borderStyle>none</borderStyle>
+            <color>15110456</color>
+            <icon>Info2Icon%7Cmedium</icon>
+          </controlProperties>
+        </control>
+        <control controlID="10" controlTypeID="com.balsamiq.mockups::Icon" x="239" y="22" w="-1" h="-1" measuredW="32" measuredH="32" zOrder="10" locked="false" isInGroup="52">
+          <controlProperties>
+            <borderStyle>none</borderStyle>
+            <color>15110456</color>
+            <icon>BookIcon%7Cmedium</icon>
+          </controlProperties>
+        </control>
+        <control controlID="11" controlTypeID="com.balsamiq.mockups::Icon" x="374" y="18" w="-1" h="-1" measuredW="32" measuredH="32" zOrder="11" locked="false" isInGroup="52">
+          <controlProperties>
+            <borderStyle>none</borderStyle>
+            <color>15110456</color>
+            <icon>SuitcaseIcon%7Cmedium</icon>
+          </controlProperties>
+        </control>
+        <control controlID="12" controlTypeID="com.balsamiq.mockups::Label" x="783" y="22" w="114" h="-1" measuredW="113" measuredH="24" zOrder="12" locked="false" isInGroup="52">
+          <controlProperties>
+            <color>16777215</color>
+            <href>http%3A//www.aulacep.net/</href>
+            <map>%3Carea%20shape%3D%22rect%22%20coords%3D%221184%2C95%2C1298%2C119%22%20href%3D%22http%3A//www.aulacep.net/%22%20alt%3D%22http%3A//www.aulacep.net/%22%20id%3D%2212%22%20target%3D%22_blank%22/%3E</map>
+            <size>16</size>
+            <text>AULA%20VIRTUAL</text>
+          </controlProperties>
+        </control>
+        <control controlID="13" controlTypeID="com.balsamiq.mockups::Icon" x="747" y="18" w="-1" h="-1" measuredW="32" measuredH="32" zOrder="13" locked="false" isInGroup="52">
+          <controlProperties>
+            <color>15110456</color>
+            <icon>ScreenIcon%7Cmedium</icon>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="54" controlTypeID="com.balsamiq.mockups::Arrow" x="1392" y="165" w="-1" h="-1" measuredW="150" measuredH="100" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="55" controlTypeID="com.balsamiq.mockups::StickyNote" x="125" y="237" w="162" h="73" measuredW="109" measuredH="123" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>El%20logo%20potser%20tamb%E9%20tindr%E0%20transpar%E8ncia.</text>
+      </controlProperties>
+    </control>
+    <control controlID="56" controlTypeID="com.balsamiq.mockups::Arrow" x="245" y="139" w="-1" h="-1" measuredW="150" measuredH="100" zOrder="9" locked="false" isInGroup="-1">
+      <controlProperties>
+        <direction>bottom</direction>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="57" controlTypeID="com.balsamiq.mockups::StickyNote" x="1554" y="289" w="173" h="100" measuredW="109" measuredH="123" zOrder="10" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>El%20men%FA%20superior%20ser%E0%20tamb%E9%20semi-transparent%2C%20seguint%20amb%20l%27aspecte%20general%20de%20la%20web.</text>
+      </controlProperties>
+    </control>
+    <control controlID="74" controlTypeID="__group__" x="419" y="198" w="379" h="427" measuredW="379" measuredH="427" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <controlName>Not%EDcies</controlName>
+      </controlProperties>
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::TextArea" x="0" y="50" w="379" h="377" measuredW="200" measuredH="140" zOrder="0" locked="false" isInGroup="74">
+          <controlProperties>
+            <backgroundAlpha>0.75</backgroundAlpha>
+            <borderColor>545684</borderColor>
+            <color>16167531</color>
+            <text/>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="__group__" x="68" y="0" w="238" h="56" measuredW="238" measuredH="56" zOrder="1" locked="false" isInGroup="74">
+          <groupChildrenDescriptors>
+            <control controlID="2" controlTypeID="com.balsamiq.mockups::Title" x="20" y="9" w="198" h="-1" measuredW="146" measuredH="43" zOrder="1" locked="false" isInGroup="1">
+              <controlProperties>
+                <color>0</color>
+                <text>Not%EDcies</text>
+              </controlProperties>
+            </control>
+            <control controlID="3" controlTypeID="com.balsamiq.mockups::TextArea" x="0" y="0" w="238" h="56" measuredW="200" measuredH="140" zOrder="0" locked="false" isInGroup="1">
+              <controlProperties>
+                <backgroundAlpha>1</backgroundAlpha>
+                <borderColor>545684</borderColor>
+                <color>15110456</color>
+              </controlProperties>
+            </control>
+          </groupChildrenDescriptors>
+        </control>
+        <control controlID="2" controlTypeID="com.balsamiq.mockups::Image" x="20" y="83" w="71" h="66" measuredW="159" measuredH="182" zOrder="2" locked="false" isInGroup="74">
+          <controlProperties>
+            <borderStyle>square</borderStyle>
+            <src>./assets/viatica.png</src>
+            <text/>
+          </controlProperties>
+        </control>
+        <control controlID="3" controlTypeID="com.balsamiq.mockups::TextArea" x="95" y="82" w="264" h="69" measuredW="200" measuredH="140" zOrder="3" locked="false" isInGroup="74">
+          <controlProperties>
+            <backgroundAlpha>0.75</backgroundAlpha>
+            <borderColor>545684</borderColor>
+            <color>11820806</color>
+            <text/>
+          </controlProperties>
+        </control>
+        <control controlID="4" controlTypeID="com.balsamiq.mockups::Image" x="20" y="166" w="70" h="72" measuredW="938" measuredH="641" zOrder="4" locked="false" isInGroup="74">
+          <controlProperties>
+            <borderStyle>square</borderStyle>
+            <src>./assets/cep.jpg</src>
+            <text/>
+          </controlProperties>
+        </control>
+        <control controlID="5" controlTypeID="com.balsamiq.mockups::TextArea" x="95" y="160" w="264" h="88" measuredW="200" measuredH="140" zOrder="5" locked="false" isInGroup="74">
+          <controlProperties>
+            <backgroundAlpha>0.75</backgroundAlpha>
+            <borderColor>545684</borderColor>
+            <color>11820806</color>
+            <text/>
+          </controlProperties>
+        </control>
+        <control controlID="6" controlTypeID="com.balsamiq.mockups::Icon" x="32" y="402" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="8" locked="false" isInGroup="74">
+          <controlProperties>
+            <icon>DownFillTriangleIcon%7Cxsmall</icon>
+          </controlProperties>
+        </control>
+        <control controlID="7" controlTypeID="com.balsamiq.mockups::Icon" x="32" y="58" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="9" locked="false" isInGroup="74">
+          <controlProperties>
+            <icon>UpFillTriangleIcon%7Cxsmall</icon>
+          </controlProperties>
+        </control>
+        <control controlID="8" controlTypeID="com.balsamiq.mockups::Paragraph" x="101" y="86" w="261" h="21" measuredW="200" measuredH="80" zOrder="6" locked="false" isInGroup="74">
+          <controlProperties>
+            <bold>false</bold>
+            <color>0</color>
+            <size>14</size>
+            <text>REPORTATGE%20AL%20CEP%20</text>
+          </controlProperties>
+        </control>
+        <control controlID="9" controlTypeID="com.balsamiq.mockups::Paragraph" x="101" y="108" w="255" h="39" measuredW="200" measuredH="80" zOrder="7" locked="false" isInGroup="74">
+          <controlProperties>
+            <color>0</color>
+            <text>No%20et%20perdis%20el%20reportatge%20que%20Canal%20Catal%E0%20va%20fer%20sobre%20el%20CEP.</text>
+          </controlProperties>
+        </control>
+        <control controlID="10" controlTypeID="com.balsamiq.mockups::Paragraph" x="101" y="165" w="253" h="54" measuredW="200" measuredH="80" zOrder="10" locked="false" isInGroup="74">
+          <controlProperties>
+            <bold>false</bold>
+            <color>0</color>
+            <size>14</size>
+            <text>CONFER%C8NCIA%20DE%20VIATICA%0AAL%20CEP%20%0A%20</text>
+          </controlProperties>
+        </control>
+        <control controlID="11" controlTypeID="com.balsamiq.mockups::Paragraph" x="101" y="205" w="253" h="52" measuredW="200" measuredH="80" zOrder="11" locked="false" isInGroup="74">
+          <controlProperties>
+            <color>0</color>
+            <text>Ja%20est%E0%20disponible%20la%20confer%E8ncia%20de%20VIATICA%20al%20nostre%20centre.</text>
+          </controlProperties>
+        </control>
+        <control controlID="12" controlTypeID="com.balsamiq.mockups::Image" x="20" y="255" w="71" h="66" measuredW="320" measuredH="240" zOrder="12" locked="false" isInGroup="74">
+          <controlProperties>
+            <borderStyle>square</borderStyle>
+            <src>http%3A//www.eixdiari.cat/resources/2012/eix-1236591302582-32361.JPG</src>
+            <text/>
+          </controlProperties>
+        </control>
+        <control controlID="13" controlTypeID="com.balsamiq.mockups::Paragraph" x="101" y="262" w="261" h="21" measuredW="200" measuredH="80" zOrder="14" locked="false" isInGroup="74">
+          <controlProperties>
+            <bold>false</bold>
+            <color>0</color>
+            <size>14</size>
+            <text>JAUME%20BARBER%C0%20AL%20CEP</text>
+          </controlProperties>
+        </control>
+        <control controlID="14" controlTypeID="com.balsamiq.mockups::Paragraph" x="101" y="284" w="255" h="39" measuredW="200" measuredH="80" zOrder="15" locked="false" isInGroup="74">
+          <controlProperties>
+            <color>0</color>
+            <text>No%20et%20perdis%20la%20confer%E8ncia%20de%20Jaume%20Barber%E0%20al%20nostre%20centre.</text>
+          </controlProperties>
+        </control>
+        <control controlID="15" controlTypeID="com.balsamiq.mockups::TextArea" x="97" y="256" w="264" h="65" measuredW="200" measuredH="140" zOrder="13" locked="false" isInGroup="74">
+          <controlProperties>
+            <backgroundAlpha>0.75</backgroundAlpha>
+            <borderColor>545684</borderColor>
+            <color>11820806</color>
+            <text/>
+          </controlProperties>
+        </control>
+        <control controlID="16" controlTypeID="com.balsamiq.mockups::Image" x="20" y="330" w="71" h="66" measuredW="407" measuredH="305" zOrder="16" locked="false" isInGroup="74">
+          <controlProperties>
+            <borderStyle>square</borderStyle>
+            <src>http%3A//p1.trrsf.com/image/fget/cf/407/305/images.terra.com/2012/09/21/liebana-jm.jpg</src>
+            <text/>
+          </controlProperties>
+        </control>
+        <control controlID="17" controlTypeID="com.balsamiq.mockups::TextArea" x="97" y="331" w="264" h="65" measuredW="200" measuredH="140" zOrder="17" locked="false" isInGroup="74">
+          <controlProperties>
+            <backgroundAlpha>0.75</backgroundAlpha>
+            <borderColor>545684</borderColor>
+            <color>11820806</color>
+            <text/>
+          </controlProperties>
+        </control>
+        <control controlID="18" controlTypeID="com.balsamiq.mockups::Paragraph" x="101" y="337" w="261" h="21" measuredW="200" measuredH="80" zOrder="18" locked="false" isInGroup="74">
+          <controlProperties>
+            <bold>false</bold>
+            <color>0</color>
+            <size>14</size>
+            <text>J.M.%20DE%20LI%C9BANA%20AL%20CEP</text>
+          </controlProperties>
+        </control>
+        <control controlID="19" controlTypeID="com.balsamiq.mockups::Paragraph" x="101" y="359" w="255" h="39" measuredW="200" measuredH="80" zOrder="19" locked="false" isInGroup="74">
+          <controlProperties>
+            <color>0</color>
+            <text>Confer%E8ncia%20a%20c%E0rrec%20de%20J.M.%20de%20Li%E9bana%20al%20CEP.</text>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+  </controls>
+</mockup>

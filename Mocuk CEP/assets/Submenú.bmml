@@ -1,0 +1,116 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="1045" measuredH="636" mockupW="1018" mockupH="622">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::StickyNote" x="27" y="14" w="583" h="211" measuredW="109" measuredH="123" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <markup>false</markup>
+        <text>This%20is%20a%20Symbol%20Library.%0A%20%0ANamed%20Groups%20inside%20a%20Symbol%20Library%20show%20up%20as%20Symbols%20for%20mockups%20that%20use%20this%20library.%0A%20%0ATo%20create%20new%20Symbols%20manually%2C%20just%20create%20your%20reusable%20widgets%20or%20templates%2C%20group%20them%20and%20name%20them.%20Save%20this%20library%20and%20go%20back%20to%20the%20mockups%20to%20see%20them%20update.%0A%20%0AMore%20about%20symbols%20here%3A%20%5Bhttp%3A//support.balsamiq.com/customer/portal/articles/110439%5D%0AUsing%20Symbols%20in%20myBalsamiq%3A%20%5Bhttp%3A//support.balsamiq.com/customer/portal/articles/229142%5D</text>
+      </controlProperties>
+    </control>
+    <control controlID="1" controlTypeID="__group__" x="47" y="236" w="505" h="400" measuredW="505" measuredH="400" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <controlName>sample%20master%20page</controlName>
+      </controlProperties>
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="0" y="0" w="505" h="400" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="1"/>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::LinkBar" x="248" y="83" w="-1" h="-1" measuredW="223" measuredH="19" zOrder="1" locked="false" isInGroup="1"/>
+        <control controlID="2" controlTypeID="com.balsamiq.mockups::Title" x="15" y="83" w="-1" h="-1" measuredW="180" measuredH="43" zOrder="2" locked="false" isInGroup="1">
+          <controlProperties>
+            <text>Page%20Title</text>
+          </controlProperties>
+        </control>
+        <control controlID="3" controlTypeID="com.balsamiq.mockups::Label" x="0" y="0" w="60" h="-1" measuredW="54" measuredH="26" zOrder="3" locked="false" isInGroup="1">
+          <controlProperties>
+            <color>13576743</color>
+            <text>SAMPLE</text>
+            <textOrientation>slanted</textOrientation>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="2" controlTypeID="__group__" x="597" y="240" w="358" h="160" measuredW="358" measuredH="160" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <controlName>sample%20employee%20widget</controlName>
+      </controlProperties>
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::Image" x="0" y="0" w="156" h="160" measuredW="77" measuredH="79" zOrder="0" locked="false" isInGroup="2"/>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::Paragraph" x="158" y="0" w="200" h="160" measuredW="200" measuredH="80" zOrder="1" locked="false" isInGroup="2">
+          <controlProperties>
+            <text>*Employee%20Name*%0A%5Bemail%5D%2C%20%5B@twitter%5D%0A%20%0AEmployee%20bio%20goes%20here%20lorem%20ipsum%20dolor%20sit%20amet%2C%20consectetur%20adipisicing%20elit%2C%20sed%20do%20eiusmod%20tempor%20incididunt%20ut%20labore%20et%20dolore%20magna%20aliqua.</text>
+          </controlProperties>
+        </control>
+        <control controlID="2" controlTypeID="com.balsamiq.mockups::Label" x="0" y="0" w="60" h="-1" measuredW="54" measuredH="26" zOrder="2" locked="false" isInGroup="2">
+          <controlProperties>
+            <color>13576743</color>
+            <text>SAMPLE</text>
+            <textOrientation>slanted</textOrientation>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="3" controlTypeID="com.balsamiq.mockups::StickyNote" x="489" y="356" w="245" h="159" measuredW="109" measuredH="123" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>10667209</color>
+        <markup>false</markup>
+        <text>These%20are%20two%20sample%20named%20groups%20called%20_sample%20master%20page_%20and%20_sample%20employee%20widget_.%0A%20%0ADelete%20them%20or%20modify%20them%20to%20suit%20your%20needs.</text>
+      </controlProperties>
+    </control>
+    <control controlID="11" controlTypeID="__group__" x="701" y="107" w="344" h="33" measuredW="344" measuredH="33" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <controlName>Submen%FA</controlName>
+      </controlProperties>
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::MenuBar" x="0" y="1" w="344" h="32" measuredW="352" measuredH="29" zOrder="0" locked="false" isInGroup="11">
+          <controlProperties>
+            <borderStyle>none</borderStyle>
+            <hrefs>%2C%2C%2C%2C</hrefs>
+            <selectedIndex>-1</selectedIndex>
+            <text>%20%20%20%20%20%2C%20%20%20%20%20%20%20%2C%20%20%20%20%20%20%20%20%20%20%20%20%20%2C%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%2C%20%20%20%20%20%20%20%20%20%20%20%20%20%20</text>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::TextArea" x="0" y="0" w="344" h="32" measuredW="200" measuredH="140" zOrder="1" locked="false" isInGroup="11">
+          <controlProperties>
+            <backgroundAlpha>0.75</backgroundAlpha>
+            <borderColor>16750848</borderColor>
+            <color>545684</color>
+            <text/>
+          </controlProperties>
+        </control>
+        <control controlID="2" controlTypeID="com.balsamiq.mockups::Label" x="12" y="6" w="-1" h="-1" measuredW="21" measuredH="21" zOrder="2" locked="false" isInGroup="11">
+          <controlProperties>
+            <color>16777215</color>
+            <href>Informaci%F3%20-%20Qui%26bm%3BInformaci%F3%20-%20Qui.bmml%26bm%3BInformaci%F3%20-%20Qui.bmml%26bm%3BInformaci%F3%20-%20Qui.bmml</href>
+            <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22686%2C99%2C707%2C120%22%20href%3D%22Informaci%25C3%25B3%2520-%2520Qui.bmml%22%20alt%3D%22Informaci%F3%20-%20Qui%22%20id%3D%222%22/%3E</map>
+            <text>Qui</text>
+          </controlProperties>
+        </control>
+        <control controlID="3" controlTypeID="com.balsamiq.mockups::Label" x="54" y="6" w="-1" h="-1" measuredW="18" measuredH="21" zOrder="3" locked="false" isInGroup="11">
+          <controlProperties>
+            <color>16777215</color>
+            <href>Informaci%F3%20-%20On%26bm%3BInformaci%F3%20-%20On.bmml%26bm%3BInformaci%F3%20-%20On.bmml%26bm%3BInformaci%F3%20-%20On.bmml</href>
+            <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22728%2C99%2C746%2C120%22%20href%3D%22Informaci%25C3%25B3%2520-%2520On.bmml%22%20alt%3D%22Informaci%F3%20-%20On%22%20id%3D%223%22/%3E</map>
+            <text>On</text>
+          </controlProperties>
+        </control>
+        <control controlID="4" controlTypeID="com.balsamiq.mockups::Label" x="97" y="6" w="-1" h="-1" measuredW="42" measuredH="21" zOrder="4" locked="false" isInGroup="11">
+          <controlProperties>
+            <color>16777215</color>
+            <text>Perqu%E8</text>
+          </controlProperties>
+        </control>
+        <control controlID="5" controlTypeID="com.balsamiq.mockups::Label" x="154" y="6" w="-1" h="-1" measuredW="104" measuredH="21" zOrder="5" locked="false" isInGroup="11">
+          <controlProperties>
+            <color>16777215</color>
+            <text>Projecte%20educatiu</text>
+          </controlProperties>
+        </control>
+        <control controlID="6" controlTypeID="com.balsamiq.mockups::Label" x="275" y="5" w="-1" h="-1" measuredW="60" measuredH="22" zOrder="6" locked="false" isInGroup="11">
+          <controlProperties>
+            <color>16777215</color>
+            <size>14</size>
+            <text>Contacte</text>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+  </controls>
+</mockup>
