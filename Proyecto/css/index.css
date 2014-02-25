@@ -6,7 +6,7 @@
 
 #div_top
 {
-    margin-top:4.5%;
+    margin-top:4.55%;
 }
 
 .navbar-brand
@@ -17,21 +17,18 @@
 .navbar
 {
     background-color:#2a64b5;    
-    opacity:0.50;
-    filter:alpha(opacity=50); /* For IE8 and earlier */
+    opacity:0.70;
+    filter:alpha(opacity=70); /* For IE8 and earlier */
     margin:0px;
 }
 
 .glyphicon
 {
     color:Orange;
-    margin-right:15px;
+    margin-right:23px;
 }
 
-li
-{
-    height:53px;
-}
+
 
 ul.nav a
 {
@@ -51,21 +48,68 @@ ul.nav a:hover
     border:2px solid Orange;
 }
 
-.panel-heading
-{
-    text-align:center;
-    background-color:#2a64b5;    
-    opacity:0.50;
-    filter:alpha(opacity=50); /* For IE8 and earlier */
-    margin:0px;
+/*--------------------------------------------------*/
+.sidebar-nav {
+  position: absolute;
+  top: 0;
+  width: 250px;
+  list-style: none;
+  margin: 0;
+  padding: 0;
 }
 
-.panel 
-{
+.sidebar-nav li {
+  line-height: 90px;
+  text-indent: 10px;
+}
+
+.sidebar-nav li a {
+  color: #fff;
+  display: block;
+  text-decoration: none;
+  height:90px;
+  
+}
+
+.sidebar-nav li a:hover {
+  color: #fff;
+  text-decoration: none;
+  border:2px solid Orange;
+  color:Orange;
+}
+
+.sidebar-nav li a:active,
+.sidebar-nav li a:focus {
+  text-decoration: none;
+}
+
+.sidebar-nav > .sidebar-brand {
+  height: 65px;
+  line-height: 60px;
+  font-size: 18px;
+}
+
+.sidebar-nav > .sidebar-brand a {
+  color: #fff;
+}
+
+.sidebar-nav > .sidebar-brand a:hover {
+  color: #fff;
+  background: none;
+}
+
+#sidebar-wrapper {
+    margin-right: -250px;
+    right: 250px;
+    width: 250px;
+    background: Blue;
+    position: fixed;
+    height: 100%;
+    z-index: 1000;
+    transition: all 0.4s ease 0s;
     text-align:center;
     background-color:#2a64b5;    
-    opacity:0.50;
-    filter:alpha(opacity=50); /* For IE8 and earlier */
-    margin:0px;
+    opacity:0.70;
+    filter:alpha(opacity=70); /* For IE8 and earlier */
     color:White;
 }
