@@ -48,7 +48,13 @@ ul.nav a:hover
     border:2px solid Orange;
 }
 
-/*--------------------------------------------------*/
+#div_content
+{
+  height: 70%;
+}
+
+/*---------- Sidebar ----------*/
+
 .sidebar-nav {
   position: absolute;
   top: 0;
@@ -114,7 +120,7 @@ ul.nav a:hover
     color:White;
 }
 
-/* 3D Card Flip */
+/*---------- 3D Card Flip ----------*/
 
 .container
 {
