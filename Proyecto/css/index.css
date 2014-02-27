@@ -1,12 +1,45 @@
-﻿body
+﻿/* Large desktops and laptops */
+@media (min-width: 1200px) {
+    img 
+    {
+        display:normal;
+    }
+    body 
+    {
+        font-size:20px;
+    }
+}
+
+/* Portrait tablets and medium desktops */
+@media (min-width: 992px) and (max-width: 1199px) {
+    img 
+    {
+        display:none;
+    }
+    body 
+    {
+        font-size:10px;
+    }
+}
+
+/* Portrait tablets and small desktops */
+@media (min-width: 768px) and (max-width: 991px) {
+
+}
+
+/* Landscape phones and portrait tablets */
+@media (max-width: 767px) {
+
+}
+
+/* Landscape phones and smaller */
+@media (max-width: 480px) {
+
+}
+body
 {
     font-style:Verdana;
     font-size:20px;
-}
-
-#div_top
-{
-    margin-top:4.55%;
 }
 
 .navbar-brand
@@ -25,15 +58,14 @@
 .glyphicon
 {
     color:Orange;
-    margin-right:23px;
+    margin-right:0.009%;
 }
-
-
 
 ul.nav a
 {
     height:53px;
     color:White;
+    line-height: 10px;
 }
 
 ul.nav a:hover 
@@ -108,6 +140,8 @@ ul.nav a:hover
     margin-right: -250px;
     right: 250px;
     width: 250px;
+    min-width:250px;
+    max-width:250px;
     background: Blue;
     position: fixed;
     height: 100%;
@@ -118,6 +152,7 @@ ul.nav a:hover
     opacity:0.70;
     filter:alpha(opacity=70); /* For IE8 and earlier */
     color:White;
+    margin-top:3.15%;
 }
 
 /*---------- 3D Card Flip ----------*/
