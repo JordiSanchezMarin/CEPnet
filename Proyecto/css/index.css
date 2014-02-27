@@ -1,24 +1,71 @@
 ﻿/* Large desktops and laptops */
-@media (min-width: 1200px) {
+@media (min-width: 1280px) {
     img 
     {
         display:normal;
     }
-    body 
+     .navbar-nav li a
     {
-        font-size:20px;
+        font-size:21px;
     }
+   
+
+    .sidebar-nav li {
+      line-height: 80px;
+      text-indent: 10px;
+    }
+
+    .sidebar-nav li a {
+      color: #fff;
+      display: block;
+      text-decoration: none;
+      height:84px;
+    }
+   
 }
 
 /* Portrait tablets and medium desktops */
-@media (min-width: 992px) and (max-width: 1199px) {
+@media (min-width: 1120px) and (max-width: 1279px) {
     img 
     {
-        display:none;
+        display:normal;
     }
-    body 
+    .navbar-nav li a
     {
-        font-size:10px;
+        font-size:17px;
+    }
+
+    .sidebar-nav li {
+      line-height: 65px;
+      text-indent: 10px;
+    }
+
+    .sidebar-nav li a {
+      color: #fff;
+      display: block;
+      text-decoration: none;
+      height:75px;
+    }
+}
+@media (min-width: 992px) and (max-width: 1119px) {
+    img 
+    {
+        display:normal;
+    }
+    .navbar-nav li a
+    {
+        font-size:15px;
+    }
+     .sidebar-nav li {
+      line-height: 60px;
+      text-indent: 10px;
+    }
+
+    .sidebar-nav li a {
+      color: #fff;
+      display: block;
+      text-decoration: none;
+      height:71px;
     }
 }
 
@@ -58,9 +105,12 @@ body
 .glyphicon
 {
     color:Orange;
-    margin-right:0.009%;
+    margin-right:6px;
 }
-
+.spanFoot
+{
+    font-size:30px;
+    }
 ul.nav a
 {
     height:53px;
@@ -82,31 +132,24 @@ ul.nav a:hover
 
 #div_content
 {
-  height: 70%;
+  height: 370px;
+}
+
+#div_top
+{
+    padding-right:0px;
+    width:100%;
 }
 
 /*---------- Sidebar ----------*/
 
-.sidebar-nav {
-  position: absolute;
-  top: 0;
-  width: 250px;
-  list-style: none;
-  margin: 0;
-  padding: 0;
-}
-
-.sidebar-nav li {
-  line-height: 90px;
-  text-indent: 10px;
-}
-
-.sidebar-nav li a {
-  color: #fff;
-  display: block;
-  text-decoration: none;
-  height:90px;
-  
+ .sidebar-nav {
+    position: absolute;
+    top: 0;
+    width: 250px;
+    list-style: none;
+    margin: 0;
+    padding: 0;
 }
 
 .sidebar-nav li a:hover {
@@ -121,9 +164,9 @@ ul.nav a:hover
   text-decoration: none;
 }
 
-.sidebar-nav > .sidebar-brand {
-  height: 65px;
-  line-height: 60px;
+/*.sidebar-nav > .sidebar-brand {
+  height: 55px;
+  line-height: 50px;
   font-size: 18px;
 }
 
@@ -135,28 +178,47 @@ ul.nav a:hover
   color: #fff;
   background: none;
 }
-
+*/
 #sidebar-wrapper {
     margin-right: -250px;
     right: 250px;
-    width: 250px;
+    width: 400px;
     min-width:250px;
     max-width:250px;
+    max-height:700px;
     background: Blue;
     position: fixed;
     height: 100%;
     z-index: 1000;
-    transition: all 0.4s ease 0s;
     text-align:center;
     background-color:#2a64b5;    
     opacity:0.70;
     filter:alpha(opacity=70); /* For IE8 and earlier */
     color:White;
-    margin-top:3.15%;
+    margin-top:0%;
 }
 
+.footer {
+    left: -560px;
+    width: 600px;
+    background: Blue;
+    position: fixed;
+    height: 50px;
+    line-height:50px;
+    z-index: 1000;
+    text-align:center;
+    background-color:#2a64b5;    
+    opacity:0.70;
+    filter:alpha(opacity=70); /* For IE8 and earlier */
+    color:White;
+    margin-top:0%;
+}
+.footer:hover {
+    text-decoration: none;
+  border:2px solid Orange;
+}
 /*---------- 3D Card Flip ----------*/
-
+/*
 .container
 {
   width: 200px;
@@ -197,4 +259,4 @@ ul.nav a:hover
 #card .flipped
 {
   transform: rotateY(180deg);
-}
+}*/
