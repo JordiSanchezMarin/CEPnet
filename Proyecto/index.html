@@ -20,28 +20,25 @@
     <script type="text/javascript">
         var mostrar = true;
         var mover = true;
-        function animFooter(id) {
-            if (mostrar == true && mover == true) {
+        function verFooter(id) {
+            var width = $(id).width() - 60;
+            if (mostrar == true ) {
                 mostrar = false;
-                mover = false;
                 $(id).animate({
-                    left: "+=533"
-                }, 250, function () {
-                    // Animation complete.
-                    mover = true;
+                    left: "+=" + width
+                }, 100, function () {
                 });
             }
-            else if (mostrar == false && mover == true) {
-                mostrar = true;
-                mover = false;
+        }
+        function esconderFooter(id) {
+            var width = $(id).width() - 60;
+            if (mostrar == false) {
                 $(id).animate({
-                    left: "-=533"
+                    left: "-=" + width
                 }, 250, function () {
-                    // Animation complete.
-                    mover = true;
+                    mostrar = true;
                 });
             }
-            
         }
     </script>
 </head>
@@ -112,21 +109,24 @@
 	</div>
 	<!-- FOOTER -->
 	<div class="row">
-        <div id="anim1" class="footer" onmouseover="animFooter('#anim1')" onmouseout="animFooter('#anim1')" >
+        <div id="anim1" class="footer" onclick="verFooter('#anim1')" >
 		    <div class="col-md-11 column">
-                <p>Horari lectiu i secretaria<span class="glyphicon glyphicon-arrow-right"></span>8:30h-14:30h i 16:00h-22:00h</p>
+                <p> <span class="glyphicon glyphicon-remove" onclick="esconderFooter('#anim1')" style="margin-top:7px"></span>Horari lectiu i secretaria<span class="glyphicon glyphicon-arrow-right"></span>8:30h-14:30h i 16:00h-22:00h</p>
                 
             </div>
-            <div class="col-md-1 column">
+            <div class="col-md-1 column" >
                 <span class="glyphicon glyphicon-time spanFoot"  style="margin-top:7px"></span>
             </div>
-		</div>
+		</div<span class="glyphicon glyphicon-download-alt" ></span>
 	</div>
-    <div class="row">
-        <div id="anim2" >
-		    <div class="col-md-12 column">
-            
-            
+    <div class="row" >
+        <div id="anim2" class="footer" onclick="verFooter('#anim2')" >
+		    <div class="col-md-10 column">
+                <p><span class="glyphicon glyphicon-remove" onclick="esconderFooter('#anim2')" style="margin-top:7px;"></span> Calendari escolar<span class="glyphicon glyphicon-download-alt" ></span></p>
+                
+            </div>
+            <div class="col-md-2 column">
+                <span class="glyphicon glyphicon-calendar"  style="margin-top:7px;"></span>
             </div>
 		</div>
 	</div>
